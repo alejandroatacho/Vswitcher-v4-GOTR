@@ -1,0 +1,1 @@
+v.getInventory().drop(556,557,555,554)
